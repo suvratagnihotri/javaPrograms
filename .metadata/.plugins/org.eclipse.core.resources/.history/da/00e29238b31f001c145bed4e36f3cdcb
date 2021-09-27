@@ -1,0 +1,22 @@
+package com.java.tutorials;
+
+import java.util.Scanner;
+
+public class CountDuplicateCharacter {
+
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		System.out.println("Enter some text");
+		String input = sc.next();
+		DuplicateCharacter duplicateCharacter = new DuplicateCharacter();
+		duplicateCharacter.
+	}
+
+}
+
+class DuplicateCharacter{
+	public int countCharacter(String str) {
+		
+		return 0;
+	}
+}

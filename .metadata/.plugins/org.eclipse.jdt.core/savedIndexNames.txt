@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+/home/ginger/Desktop/javaWithSuvrat/.metadata/.plugins/org.eclipse.jdt.core
+4214904846.index
+646308851.index

@@ -1,0 +1,10 @@
+package com.java.tutorials;
+
+import java.util.Scanner;
+
+public class CountDuplicateCharacter {
+	Scanner sc = new Scanner(System.in);
+	System.out.println("Enter some text");
+	
+	
+}
