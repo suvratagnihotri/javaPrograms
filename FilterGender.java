@@ -2,6 +2,8 @@ package com.java.tutorials;
 
 import java.util.ArrayList;
 
+
+//Program to filter the employees on the basis of gender from the Employees List.
 class EmployeeDetails {
 	private int id;
 	private int salary;
@@ -50,11 +52,10 @@ class EmployeeDetails {
 	public String getGender() {
 		return this.gender;
 	}
+	
 	@Override
     public String toString() {
- 
-        StringBuilder str = null;
-        str = new StringBuilder();
+        StringBuffer str = new StringBuffer();
         str.append("Employee Id:- " + getId() + " Gender:- " + getGender() + " Name:- " + getName());
         return str.toString();
     }
