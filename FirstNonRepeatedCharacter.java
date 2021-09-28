@@ -1,7 +1,7 @@
 package com.java.tutorials;
 
 import java.util.Scanner;
-//Program to get the first non repeated character from the String
+//Program to get the first non repeated character from the given String
 public class FirstNonRepeatedCharacter {
 	public static void main(String [] args) {
 		Scanner sc = new Scanner(System.in);
