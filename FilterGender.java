@@ -3,7 +3,7 @@ package com.java.tutorials;
 import java.util.ArrayList;
 
 
-//Program to filter the employees on the basis of gender from the Employees List, using the concept of Encapsulation
+//Program to filter the employees on the basis of gender from the Employees List, using the concept of Encapsulation(Setter and getter methods)
 class EmployeeDetails {
 	private int id;
 	private int salary;
