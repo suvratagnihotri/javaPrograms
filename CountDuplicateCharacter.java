@@ -1,5 +1,4 @@
-//Write a program that counts duplicate
-//characters from a given string
+//Write a program that counts duplicate characters from a given string
 
 package com.java.tutorials;
 
