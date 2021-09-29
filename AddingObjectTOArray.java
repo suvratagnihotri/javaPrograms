@@ -1,5 +1,5 @@
 package com.java.tutorials;
-
+//Program to add class objects in the array
 public class AddingObjectTOArray {
 	public static void main(String [] args) {
 		ArrayFields [] array = new ArrayFields[10];
