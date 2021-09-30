@@ -3,6 +3,8 @@ package com.java.tutorials;
 import java.util.Scanner;
 import java.lang.NumberFormatException;
 //Program to check whether a string contains only digits or not
+
+
 public class StringContainsDigits {
 
 	public static void main(String[] args) {
