@@ -1,4 +1,6 @@
 package com.java.tutorials;
+//Program to check that a number is palindrome or not.
+
 
 public class PalindromeNumber {
 
