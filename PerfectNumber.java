@@ -1,5 +1,7 @@
 package com.java.tutorials;
 
+//Program to check whether a number is perfect number or not.
+
 public class PerfectNumber {
 
 	public static void main(String[] args) {
