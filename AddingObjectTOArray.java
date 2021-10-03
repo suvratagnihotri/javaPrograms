@@ -3,11 +3,13 @@ package com.java.tutorials;
 public class AddingObjectTOArray {
 	public static void main(String [] args) {
 		ArrayFields [] array = new ArrayFields[10];
+		ArrayFields a1 = new ArrayFields("Suresh",1000);
 		array[0] = new ArrayFields("Suresh",2000);
 		array[1] = new ArrayFields("Suresh",2000);
 		array[2] = new ArrayFields("Suresh",2000);
 		array[3] = new ArrayFields("Suresh",2000);
 		array[4] = new ArrayFields("Suresh",2000);
+		array[5] = a1;
 		for(int i = 0; i<array.length; i++) {
 			System.out.println(array[i]);
 		}
