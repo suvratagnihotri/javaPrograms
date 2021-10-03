@@ -1,6 +1,6 @@
 package com.java.tutorials;
 
-//Program to print Fibbonacci series.
+//Program to print Fibbonacci series of n numbers
 public class FibbonacciSeries {
 
 	public static void main(String[] args) {
