@@ -1,5 +1,9 @@
 package com.java.tutorials;
 
+
+
+//Program to check whether a number is armstrong or not
+
 public class ArmstrongNumber {
 	public static void main(String[] args) {
 		int a = 153;
