@@ -4,8 +4,6 @@ import java.util.Scanner;
 //Program to generate all permutations of a given string
 
 
-//Java program to print all permutations of a
-//given string.
 public class Permutation
 {
 	public static void main(String[] args)
