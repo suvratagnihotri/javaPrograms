@@ -23,3 +23,4 @@ This repository contains solutions of following Java Programs.
 15. Program to check whether a number is perfect number or not.
 16. Program to remove white spaces from a given string.
 17. Program to reverse the letters of words of the string. 
+18. Program to check a string is palindrome or not.
