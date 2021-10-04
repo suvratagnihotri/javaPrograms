@@ -3,7 +3,7 @@ package com.java.tutorials;
 import java.util.Arrays;
 import java.util.Scanner;
 
-//Program to check that a string is Palindrome or not.
+//Write a Program to check that a string is Palindrome or not.
 
 public class PalindromeString {
 
