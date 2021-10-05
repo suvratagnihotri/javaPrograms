@@ -25,3 +25,4 @@ This repository contains solutions of following Java Programs.
 17. Program to reverse the letters of words of the string. 
 18. Program to check a string is palindrome or not.
 19. Program to remove duplicate characters from a given string.
+20. Program to sort the strings of String array acoording to their length.
