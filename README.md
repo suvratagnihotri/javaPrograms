@@ -27,3 +27,4 @@ This repository contains solutions of following Java Programs.
 19. Program to remove duplicate characters from a given string.
 20. Program to sort the strings of String array acoording to their length.
 21. Program to find subString in a given String .
+22. Program to insert an element at given position in to an array.
