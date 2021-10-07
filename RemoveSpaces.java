@@ -3,6 +3,7 @@ package com.java.tutorials;
 import java.util.Scanner;
 
 //Program to remove spaces from a given string .
+
 public class RemoveSpaces {
 
 	public static void main(String[] args) {
