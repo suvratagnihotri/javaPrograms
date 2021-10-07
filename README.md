@@ -29,3 +29,5 @@ This repository contains solutions of following Java Programs.
 21. Program to find subString in a given String .
 22. Program to insert an element at given position in to an array.
 23. Program to use the Map Interface with HashMap, LinkedHashMap and TreeMap.
+24. Program to remove spaces from a given string.
+25. Program to check the null reference of the objects and remove the null values from a given List of Integers.
