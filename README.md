@@ -28,3 +28,4 @@ This repository contains solutions of following Java Programs.
 20. Program to sort the strings of String array acoording to their length.
 21. Program to find subString in a given String .
 22. Program to insert an element at given position in to an array.
+23. Program to use the Map Interface with HashMap, LinkedHashMap and TreeMap.
