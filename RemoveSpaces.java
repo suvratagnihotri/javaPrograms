@@ -9,11 +9,12 @@ public class RemoveSpaces {
 		Scanner sc = new Scanner(System.in);
 		System.out.println("Enter a string with spaces");
 		String inputString = sc.nextLine();
-		String stringWithoutSpace = removeSpace(inputString);
+		String stringWithoutSpace = new String();
+		stringWithoutSpace = new RemoveSpaces().removeSpace(inputString);
 		System.out.println(stringWithoutSpace);
 	}
 
-	private static String removeSpace(String inputString) {
+	public String removeSpace(String inputString) {
 		char [] string = inputString.toCharArray();
 		String outputString = "";
 //		int i=0;
