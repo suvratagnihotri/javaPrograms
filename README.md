@@ -33,3 +33,10 @@ This repository contains solutions of following Java Programs.
 25. Program to check the null reference of the objects and remove the null values from a given List of Integers.
 26. Program to find the sum of all elements of a given integer array.
 27. Program to find all divisors of a given natural number.
+//Program to print the following pattern-
+/*  *****
+ *  ****
+ *  ***
+ *  **
+ *  *
+ */
