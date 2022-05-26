@@ -1,7 +1,7 @@
 package com.java.tutorials;
 
 import java.io.FileNotFoundException;
-
+//Program to print Hello world!
 public class HelloWorld {
 	//Main method is static because it could be executed without creating an object of the class.
 	//Program execution starts from the main method.
